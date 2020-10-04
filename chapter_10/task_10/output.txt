@@ -1,0 +1,31 @@
+> = 15.708
+> = 6
+> = 3
+> = 3125
+> = 15
+> = 0.5
+> = 16.5708
+> = 120
+> = 36
+> = -8
+> = primary expected
+> = ')' expected
+> = primary expected
+> = -0.333333
+> = primary expected
+> = primary: invalid expression
+> = 1
+> = primary: invalid expression
+> = divide by zero
+> = divide by zero
+> = 3
+> = -2
+> = -2
+> = 1.23457e+015
+> Bad token
+> = get: undefined variable Mary
+> = get: undefined variable uhesuhptsnbtietjmuhtn
+> = Bad token
+> = primary expected
+> = 3
+> 

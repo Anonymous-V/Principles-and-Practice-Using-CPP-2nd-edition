@@ -1,0 +1,34 @@
+Year 1990
+
+Year 1991
+  Month June
+
+Year 1992
+  Month January
+    Day 1
+      0 61.5
+  Month February
+    Day 1
+      1 64
+    Day 2
+      2 65.2
+
+Year 2000
+  Month January
+    Day 1
+      1 -10.5
+    Day 7
+      1 -15.1
+  Month February
+    Day 1
+      0 67.2
+      1 68
+    Day 2
+      3 66.66
+  Month December
+    Day 14
+      0 -2
+    Day 15
+      14 -0.8
+      15 -9.2
+
