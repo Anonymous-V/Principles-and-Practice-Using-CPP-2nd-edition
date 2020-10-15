@@ -1,0 +1,58 @@
+a - alpha
+a - alphanumeric
+a - letter is lower
+
+b - alpha
+b - alphanumeric
+b - letter is lower
+
+G - alpha
+G - letter is upper
+
+E - alpha
+E - alphanumeric
+E - letter is upper
+
+D - alpha
+D - alphanumeric
+D - letter is upper
+
+5 - number
+5 - alphanumeric
+
+3 - number
+3 - alphanumeric
+
+G - alpha
+G - letter is upper
+
+F - alpha
+F - alphanumeric
+F - letter is upper
+
+[ - punct symbol
+
+} - punct symbol
+
+z - alpha
+z - letter is lower
+
+u - alpha
+u - letter is lower
+
+o - alpha
+o - letter is lower
+
+{ - punct symbol
+
+( - punct symbol
+
+7 - number
+7 - alphanumeric
+
+n - alpha
+n - letter is lower
+
+6 - number
+6 - alphanumeric
+

@@ -1,0 +1,9 @@
+4	- spaces
+11	- letters
+4	- numerics
+9	- alphanumerics
+5	- letters is upper case
+6	- letters is lower case
+1	- control characters
+4	- puncts
+22	- prints
